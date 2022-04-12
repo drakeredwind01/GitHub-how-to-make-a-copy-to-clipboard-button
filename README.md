@@ -19,7 +19,7 @@ website 		        www.redwind01.com
 
 ________                        https://redwind01.wixsite.com/redwind01
 
-youtube 		       ```https://www.youtube.com/channel/UCnw2fREws9T-1YL8m2pWGLg?sub_confirmation=1```
+youtube 		        https://www.youtube.com/channel/UCnw2fREws9T-1YL8m2pWGLg?sub_confirmation=1
 
 twitch:                 https://www.twitch.tv/redwind01
 
