@@ -6,6 +6,13 @@
 ## Quick-Navigation
 
 - [test 1](#test-1)
+- [test 2](#test-2)
+- [test 3](#test-3)
+- [This is where the tutorial Starts](#This-is-where-the-tutorial-Starts)
+## This is where the tutorial Starts
+
+
+
 ## test 1
 
 
@@ -15,7 +22,7 @@ At first figuring how to do this was insanly hard becuase I had no idea what I w
 testing markdown 
 ```
 
-**test 2**
+## test 2
 then I was convinced it was HTML so I looked up a tutorial on how to make a copiable text with HTML and came up with this
 
 ```
@@ -32,7 +39,7 @@ then I was convinced it was HTML so I looked up a tutorial on how to make a copi
     </div>
   </div>
 ```
-**test 3**
+## test 3
 I can't even remember how I cam up with the correct way of doing it all I know is the below works.
 Hope this helps!
 
@@ -45,7 +52,6 @@ testing code copy
 It was the best of times. It was the worst of times
 ```
 
-**This is where the tutorial Starts**
 ## This is where the tutorial Starts
 Ok so if you want a `Box` you have to write "Tilde Box Tilde" 
 ```
