@@ -16,15 +16,25 @@
 ## My Socials
 
 website 		        www.redwind01.com 
+
                         https://redwind01.wixsite.com/redwind01
+
 youtube 		        https://www.youtube.com/channel/UCnw2fREws9T-1YL8m2pWGLg?sub_confirmation=1
+
 twitch:                 https://www.twitch.tv/redwind01
+
 discord: 		
+
     redwind01 	        https://discord.gg/WbcWqVq
+
     redwind01.gaming   	https://discord.gg/WMPfGhN
+
 Linkedin 		        https://www.linkedin.com/in/drake-redwind-36815512a/
+
 facebook 		        https://www.facebook.com/drake.redwind.73/
+
 twitter 			    https://twitter.com/drakeredwind011
+
 instagram               https://www.instagram.com/drakeredwind01.insta/
 
 
