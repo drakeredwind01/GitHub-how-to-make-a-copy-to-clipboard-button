@@ -2,7 +2,35 @@
  GitHub how to make a copy to clipboard button
 testing
 
+**test 1**
+At first figuring how to do this was insanly hard becuase I had no idea what I was doing or what this function was called first I thought it was a markdown but the below didn't work so I had to move on
+```
 testing markdown 
+```
+
+**test 2**
+then I was convinced it was HTML so I looked up a tutorial on how to make a copiable text with HTML and came up with this
+
+```
+<div class="container">
+    <div class="label">
+      Joining Link
+    </div>
+  
+    <div class="copy-text">
+      <input type="text" class="text" value="https://www.youtube.com/c/DrakeRedWind01?sub_confirmation=1>
+      <button>
+        <i class="fa fa-clone"></i>
+      </button>
+    </div>
+  </div>
+```
+**test 3**
+I can't even remember how I cam up with the correct way of doing it all I know is the below works.
+Hope this helps!
+
+
+
 
 testing highlight `tesing`
 testing code copy
@@ -32,18 +60,3 @@ if not = try again
 
 
 
-
-
-
-<div class="container">
-    <div class="label">
-      Joining Link
-    </div>
-  
-    <div class="copy-text">
-      <input type="text" class="text" value="https://www.youtube.com/c/DrakeRedWind01?sub_confirmation=1>
-      <button>
-        <i class="fa fa-clone"></i>
-      </button>
-    </div>
-  </div>
