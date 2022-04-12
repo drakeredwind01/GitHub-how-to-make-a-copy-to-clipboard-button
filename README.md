@@ -11,6 +11,19 @@ It was the best of times. It was the worst of times
 ```
 
 
+Ok so if you want a `Box` you have to write "Tilde Box Tilde" 
+```
+`Box`
+```
+
+for code to copy all you need to do is print 3 Tildes on it's own line with the code under it when you are done write another 3 Tildes on the next avalible blank line
+```
+```
+if works = success
+if not = try again
+```
+```
+
 
 
 
