@@ -13,9 +13,6 @@
 
 
 ## test 1
-
-
-## test 1
 At first figuring how to do this was insanly hard becuase I had no idea what I was doing or what this function was called first I thought it was a markdown but the below didn't work so I had to move on
 ```
 testing markdown 
