@@ -16,13 +16,18 @@ Ok so if you want a `Box` you have to write "Tilde Box Tilde"
 `Box`
 ```
 
-for code to copy all you need to do is print 3 Tildes on it's own line with the code under it when you are done write another 3 Tildes on the next avalible blank line
+for code to copy all you need to do is print 3 Tildes on it's own line with the code under it when you are done write another 3 Tildes on the next avalible blank line.
+
+it won't work if I use it in the code (it ends up being an entire blank line like below) so I will replace the Tilde with single quotes for this example
 ```
 ```
+```
+'''
 if works = success
 if not = try again
+'''
 ```
-```
+
 
 
 
